@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="width: 50%; margin: auto;"
+  >
+    <span
+      style="display: inline;"
+    >
+      <h1>
+        <img
+          alt="company-logo"
+          id="company-logo"
+          src="https://www.brandcrowd.com/gallery/brands/pictures/picture15635752108148.jpg"
+        />
+        <a
+          href="/companies/pizza"
+        >
+          Pizza School
+        </a>
+      </h1>
+    </span>
+    <h3>
+      Become an exceptional pizza maker in 16 weeks.
+    </h3>
+    <hr />
+  </div>
+</DocumentFragment>
+`;

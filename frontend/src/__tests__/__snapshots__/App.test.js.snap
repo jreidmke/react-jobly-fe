@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div>
+      <div
+        id="nav-bar"
+      >
+        <a
+          href="/"
+          id="logo"
+        >
+          Jobly
+        </a>
+        <a
+          href="/login"
+          id="link"
+        >
+          Login
+        </a>
+        <a
+          href="/register"
+          id="link"
+        >
+          Register
+        </a>
+      </div>
+    </div>
+    <div>
+      <div
+        style="margin-top: 60px;"
+      >
+        <h1>
+          Welcome to Jobly
+        </h1>
+        <h4>
+          A place to search for and 
+          <br />
+           apply for jobs.
+        </h4>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

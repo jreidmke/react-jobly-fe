@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="width: 50%; margin: auto;"
+  >
+    <h1>
+      Pizza Co.
+    </h1>
+    <h3>
+      pizza chef
+    </h3>
+    <button>
+      Apply
+    </button>
+    <p>
+      Salary: 450
+    </p>
+    <p>
+      Equity: 0.1
+    </p>
+    <hr />
+  </div>
+</DocumentFragment>
+`;

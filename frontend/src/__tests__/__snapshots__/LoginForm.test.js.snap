@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <input
+        id="username"
+        name="username"
+        placeholder="Username"
+        type="text"
+        value=""
+      />
+      <input
+        id="password"
+        name="password"
+        placeholder="Password"
+        type="password"
+        value=""
+      />
+      <br />
+      <button>
+        Submit
+      </button>
+    </form>
+    <h1>
+      <a
+        href="/register"
+      >
+        New to Jobly? Click here to register!
+      </a>
+    </h1>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      id="nav-bar"
+    >
+      <a
+        href="/"
+        id="logo"
+      >
+        Jobly
+      </a>
+      <a
+        href="/companies"
+        id="link"
+      >
+        Companies
+      </a>
+      <a
+        href="/jobs"
+        id="link"
+      >
+        Jobs
+      </a>
+      <a
+        href="/"
+        id="link"
+      >
+        Logout James
+      </a>
+      <a
+        href="/profile"
+        id="link"
+      >
+        Profile
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot when logged out 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      id="nav-bar"
+    >
+      <a
+        href="/"
+        id="logo"
+      >
+        Jobly
+      </a>
+      <a
+        href="/login"
+        id="link"
+      >
+        Login
+      </a>
+      <a
+        href="/register"
+        id="link"
+      >
+        Register
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
